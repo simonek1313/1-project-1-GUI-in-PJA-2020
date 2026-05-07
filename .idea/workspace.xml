@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1c5d4f3-9b5d-4140-8f9b-37ccaa7a8ee0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projekt_1/META-INF/projekt_1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/Pojazd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/Pojazd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/PomieszczeniaOsiedle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/PomieszczeniaOsiedle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/Rzecz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/Rzecz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/zapisDoPliku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projekt_1/pl/pja/grzesym/zapisDoPliku.class" afterDir="false" />
-    </list>
+    <list default="true" id="c1c5d4f3-9b5d-4140-8f9b-37ccaa7a8ee0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +46,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "H:/0_Java/Project_1_PJA_2020",
     "settings.editor.selected.configurable": "preferences.lookFeel"

@@ -12,7 +12,7 @@ public class Osoba {
 
 
 //    public int lokalePomieszczenia[] = new int[5];
-    protected ArrayList<PomieszczeniaOsiedle> listaPomieszczen = new ArrayList<>(5);
+    protected ArrayList<PomieszczeniaOsiedle> listaPomieszczen = new ArrayList<>();
 
 
 

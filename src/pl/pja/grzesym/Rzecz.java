@@ -1,16 +1,17 @@
 package pl.pja.grzesym;
 
-public class Rzecz <T> {
-    T nazwa;
-    private double dlugosc;
-    private double szerokosc;
+
+public class Rzecz implements Comparable <Rzecz> {
+    String nazwa;
+    public double dlugosc;
+    public double szerokosc;
     private double wysokosc;
     protected double objetosc;
-    protected double polePowierzchni;
+    public double polePowierzchni;
     protected int idRzeczy;
 
 
-    public Rzecz(T nazwa, double dlugosc, double szerokosc, double wysokosc) {
+    public Rzecz(String nazwa, double dlugosc, double szerokosc, double wysokosc) {
 
         this.nazwa = nazwa;
         this.dlugosc = dlugosc;
@@ -26,5 +27,16 @@ public class Rzecz <T> {
                 + " " + "Powierzchnia: " + polePowierzchni + ", ";
     }
 
+
+     @Override
+    public int compareTo(Rzecz au) {
+        if (this.polePowierzchni> au.polePowierzchni)
+            return -1;
+            else if  (this.polePowierzchni< au.polePowierzchni)
+                return 1;
+
+                return  this.nazwa.compareTo(au.nazwa);
+
+     }
 
 }

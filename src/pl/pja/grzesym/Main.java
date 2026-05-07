@@ -25,6 +25,7 @@
 package pl.pja.grzesym;
 import java.io.IOException;
 import java.util.Scanner;
+import java.util.Collections;
 
 public class Main {
 
@@ -119,29 +120,29 @@ public class Main {
         rzeczy[idRzeczy] = new Przedmiot("Lozko",  "Zloty", 2.0,1.6, 0.8);
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
         idRzeczy++;
-        rzeczy[idRzeczy] = new Przedmiot("Lozko",  "Zloty", 2.0,0.8, 0.8);
+        rzeczy[idRzeczy] = new Przedmiot("Lozko",  "Zloty", 2.0,1, 0.8);
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
         idRzeczy++;
         rzeczy[idRzeczy] = new Przedmiot("Rower",  "Czerwony", 1.8,0.6, 1.2);
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
         idRzeczy++;
-        rzeczy[idRzeczy] = new Pojazd<Double>(SzablonPojazd.SAMOCHOD_TERENOWY,  "Paka", "Diesel",2.5, 5.5,
+        rzeczy[idRzeczy] = new Pojazd<Double>("SzablonPojazd.SAMOCHOD_TERENOWY",  "Paka", "Diesel",2.5, 5.5,
                 2.5,2.1, "Przeswit podwozia", 0.3);
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
         idRzeczy++;
-        rzeczy[idRzeczy] = new Pojazd<Double>(SzablonPojazd.SAMOCHOD_OSOBOWY,  "Sedan", "Diesel",1.8, 4.5,
+        rzeczy[idRzeczy] = new Pojazd<Double>("SzablonPojazd.SAMOCHOD_OSOBOWY",  "Sedan", "Diesel",1.8, 4.5,
                 2.2,2, "Ilosc miejsc", 5.0);
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
         idRzeczy++;
-        rzeczy[idRzeczy] = new Pojazd<Boolean>(SzablonPojazd.MOTOCYKL,  "Wyscigowy", "Benzyna",1.2, 3.5,
+        rzeczy[idRzeczy] = new Pojazd<Boolean>("SzablonPojazd.MOTOCYKL",  "Wyscigowy", "Benzyna",1.2, 3.5,
                 1.0,1.2, "Turystyczny", false);
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
         idRzeczy++;
-        rzeczy[idRzeczy] = new Pojazd<Boolean>(SzablonPojazd.LODZ,  "Turystyczny", "Diesel",1.2, 6.5,
+        rzeczy[idRzeczy] = new Pojazd<Boolean>("SzablonPojazd.LODZ",  "Turystyczny", "Diesel",1.2, 6.5,
                 1.5,1.0, "Z silnikiem", true);
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
         idRzeczy++;
-        rzeczy[idRzeczy] = new Pojazd<Double>(SzablonPojazd.AMFIBIA,  "Toporny", "Diesel",1.2, 6.5,
+        rzeczy[idRzeczy] = new Pojazd<Double>("SzablonPojazd.AMFIBIA",  "Toporny", "Diesel",1.2, 6.5,
                 1.5,1.0, "Predkosc na wodzie w wezlach", 32.0 );
         rzeczy[idRzeczy].idRzeczy = idRzeczy;
 
@@ -166,9 +167,10 @@ public class Main {
 //  Przypisania wstepne
         System.out.println("Przypisania wstepne w programie");
         System.out.println();
+        lokator[0].wynajmijPomieszczenie(lokator[0], osiedle1[0]);
         lokator[0].wynajmijPomieszczenie(lokator[0], osiedle1[1]);
-        lokator[0].wynajmijPomieszczenie(lokator[0], osiedle1[6]);
         lokator[0].wynajmijPomieszczenie(lokator[0], osiedle1[9]);
+        lokator[0].wynajmijPomieszczenie(lokator[0], osiedle1[6]);
         lokator[0].wynajmijPomieszczenie(lokator[0], osiedle1[4]);
         lokator[1].wynajmijPomieszczenie(lokator[1], osiedle1[0]);
         lokator[2].wynajmijPomieszczenie(lokator[2], osiedle1[2]);
@@ -421,9 +423,12 @@ public class Main {
                 case 11:
 
                     System.out.println("Zapisanie stanu osiedla do pliku: )");
+                    System.out.println(lokator[0].listaPomieszczen.get(1).listaPrzedmiotow);
+                    System.out.println(lokator[0].listaPomieszczen.get(1).listaZameldowanych);
 //                    zapisDoPliku.zapisStanuOsoby(lokator, idOsoba);
 //                    zapisDoPliku.zapisStanuOsob(aktualnaOsoba);
                     zapisDoPliku.stanOsiedla(lokator, idOsoba, osiedle1, idPomieszczenia);
+//                    zapisDoPliku.sortowanie(rzeczy);
                     Narzedzia.pauza();
                     break;
 

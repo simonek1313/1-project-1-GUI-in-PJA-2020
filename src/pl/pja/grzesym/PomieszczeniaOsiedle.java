@@ -1,7 +1,8 @@
 package pl.pja.grzesym;
 import java.util.ArrayList;
+import java.util.Collections;
 
-public class PomieszczeniaOsiedle {
+public class PomieszczeniaOsiedle implements Comparable<PomieszczeniaOsiedle> {
 
     protected int idNieruchomosci;
     protected int idNajemcy = -1;
@@ -113,6 +114,17 @@ public class PomieszczeniaOsiedle {
         return "      " + idNieruchomosci + ". " + "Typ: " + nazwa + ", " +"Dlugosc: " + dlugosc + ", " + "Szerokosc: " + szerokosc + ", " + "Wyskokosc: " + wysokosc
                 +"\n         " + "Pole powierzchni: " + polePowierzchni + ", " ;
     };
+
+
+    @Override
+    public int compareTo(PomieszczeniaOsiedle pomieszczenie) {
+
+        if(this.polePowierzchni > pomieszczenie.polePowierzchni)
+            return 1;
+        else if (this.polePowierzchni < pomieszczenie.polePowierzchni )
+            return -1;
+        return 0;
+    }
 }
 
 

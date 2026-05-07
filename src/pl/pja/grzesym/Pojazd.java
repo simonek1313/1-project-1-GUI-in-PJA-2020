@@ -1,15 +1,18 @@
 package pl.pja.grzesym;
+import java.util.ArrayList;
+import java.util.Collections;
 
-public class Pojazd <U> extends Rzecz {
+public class Pojazd <U> extends Rzecz   {
 
     String typPojazdu;
     String typSilnika;
     double pojemnoscSilnika;
     String cechaChakrsakterystyczna;
     protected U cecha;
+    public double polePowierzchni;
 
 
-    Pojazd(SzablonPojazd nazwa, String typPojazdu, String typSilnika, double pojemnoscSilnika, double dlugosc, double szerokosc,
+    Pojazd(String nazwa, String typPojazdu, String typSilnika, double pojemnoscSilnika, double dlugosc, double szerokosc,
            double wysokosc, String cechaChakrsakterystyczna, U cecha){
         super (nazwa, dlugosc, szerokosc, wysokosc);
         this.typPojazdu=typPojazdu;
@@ -17,6 +20,8 @@ public class Pojazd <U> extends Rzecz {
         this.pojemnoscSilnika= pojemnoscSilnika;
         this.cechaChakrsakterystyczna = cechaChakrsakterystyczna;
         this.cecha = cecha;
+        polePowierzchni = super.polePowierzchni;
+
 
     }
 
@@ -26,4 +31,10 @@ public class Pojazd <U> extends Rzecz {
                 + "Cecha charakterystyczna: " + cechaChakrsakterystyczna + "- " + cecha;
 
     };
+
+
+
+
+
+
 }

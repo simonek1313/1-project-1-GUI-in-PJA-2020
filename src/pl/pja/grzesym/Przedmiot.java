@@ -15,5 +15,6 @@ public class Przedmiot extends Rzecz{
         super.toString();
         return super.toString() + "Kolor: " + kolor;
 
-    };
+    }
+
 }
