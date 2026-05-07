@@ -1,0 +1,111 @@
+Osoba: 
+0. Imie i nazwisko: Jan, Kowalski, Pesel: 720323086, Adres: Chelm, ul. Wolnosci 7/78
+
+   Wynajete pomieszczenie: 
+      1. Typ: MIESZKANIE_M4, Dlugosc: 12.0, Szerokosc: 10.0, Wyskokosc: 2.6
+         Pole powierzchni: 120.0, Liczba pokoi: 4Liczba lozek: 6
+
+          Lista przedmiotow: 
+               0 Nazwa: Polka Dlugosc: 2.5 Szerokosc: 0.8 Wyskokosc: 1.6 Powierzchnia: 2.0, Kolor: Niebieski
+               1 Nazwa: Krzeslo Dlugosc: 0.3 Szerokosc: 0.3 Wyskokosc: 0.8 Powierzchnia: 0.09, Kolor: Niebieski
+               1 Nazwa: Krzeslo Dlugosc: 0.3 Szerokosc: 0.3 Wyskokosc: 0.8 Powierzchnia: 0.09, Kolor: Niebieski
+               1 Nazwa: Krzeslo Dlugosc: 0.3 Szerokosc: 0.3 Wyskokosc: 0.8 Powierzchnia: 0.09, Kolor: Niebieski
+               1 Nazwa: Krzeslo Dlugosc: 0.3 Szerokosc: 0.3 Wyskokosc: 0.8 Powierzchnia: 0.09, Kolor: Niebieski
+               3 Nazwa: Lozko Dlugosc: 2.0 Szerokosc: 1.6 Wyskokosc: 0.8 Powierzchnia: 3.2, Kolor: Zloty
+               4 Nazwa: Lozko Dlugosc: 2.0 Szerokosc: 0.8 Wyskokosc: 0.8 Powierzchnia: 1.6, Kolor: Zloty
+
+          Zameldowane osoby: 
+               9. Imie i nazwisko: Genowefa, Pigwa, Pesel: 2407350, Adres: Gdansk, ul. Dluga 2/1578
+               8. Imie i nazwisko: Zygfryd, Lwieserce, Pesel: 780915422, Adres: Zamosc, Plac Zamkowy 25/2
+               7. Imie i nazwisko: Przemyslaw, Nowakowski, Pesel: 700329954, Adres: Zielona Gora, ul. Na Stoczku 389
+               6. Imie i nazwisko: Zofia, Grzesiuk, Pesel: 650202358, Adres: Warszawa, ul Chlodna 15/26
+               5. Imie i nazwisko: Waldemar, Wiatraczny, Pesel: 480709999, Adres: Lublin, ul. Nadbystrzycka 48/16
+
+   Wynajete pomieszczenie: 
+      4. Typ: MIESZKANIE_M2, Dlugosc: 7.0, Szerokosc: 6.28, Wyskokosc: 2.6
+         Pole powierzchni: 43.96, Liczba pokoi: 2Liczba lozek: 3
+
+          Lista przedmiotow: 
+
+          Zameldowane osoby: 
+
+   Wynajete pomieszczenie: 
+      6. Typ: PARKING1, Dlugosc: 5.0, Szerokosc: 4.0, Wyskokosc: 2.2
+         Pole powierzchni: 20.0, Ganiazdko: true
+
+          Lista przedmiotow: 
+               6 Nazwa: SAMOCHOD_TERENOWY Dlugosc: 5.5 Szerokosc: 2.5 Wyskokosc: 2.1 Powierzchnia: 13.75, Typ pojazdu: Paka, Typ silnika: Diesel, Pojemnosc silnika: 2.5, Cecha charakterystyczna: Przeswit podwozia- 0.3
+
+          Zameldowane osoby: 
+
+   Wynajete pomieszczenie: 
+      9. Typ: PARKING2, Dlugosc: 5.0, Szerokosc: 3.5, Wyskokosc: 2.2
+         Pole powierzchni: 17.5, Ganiazdko: false
+
+          Lista przedmiotow: 
+
+          Zameldowane osoby: 
+
+
+
+Osoba: 
+1. Imie i nazwisko: Ewa, Nowak, Pesel: 960515121, Adres: Pisaeczno, ul. Na Wale 15
+
+   Wynajete pomieszczenie: 
+      0. Typ: MIESZKANIE_M4, Dlugosc: 10.0, Szerokosc: 8.0, Wyskokosc: 2.6
+         Pole powierzchni: 80.0, Liczba pokoi: 4Liczba lozek: 6
+
+          Lista przedmiotow: 
+
+          Zameldowane osoby: 
+
+
+
+Osoba: 
+2. Imie i nazwisko: Jolanta, Krzywousta, Pesel: 920101156, Adres: Torun, ul. Kopernika 15/1
+
+   Wynajete pomieszczenie: 
+      2. Typ: MIESZKANIE_M3, Dlugosc: 8.0, Szerokosc: 8.0, Wyskokosc: 2.6
+         Pole powierzchni: 64.0, Liczba pokoi: 3Liczba lozek: 5
+
+          Lista przedmiotow: 
+
+          Zameldowane osoby: 
+
+
+
+Osoba: 
+3. Imie i nazwisko: Barbara, Wegiel, Pesel: 981117156, Adres: Torun, ul. Kopernika 15/1
+
+
+
+Osoba: 
+4. Imie i nazwisko: Edward, Solarski, Pesel: 811231055, Adres: Suchowla 15
+
+
+
+Osoba: 
+5. Imie i nazwisko: Waldemar, Wiatraczny, Pesel: 480709999, Adres: Lublin, ul. Nadbystrzycka 48/16
+
+
+
+Osoba: 
+6. Imie i nazwisko: Zofia, Grzesiuk, Pesel: 650202358, Adres: Warszawa, ul Chlodna 15/26
+
+
+
+Osoba: 
+7. Imie i nazwisko: Przemyslaw, Nowakowski, Pesel: 700329954, Adres: Zielona Gora, ul. Na Stoczku 389
+
+
+
+Osoba: 
+8. Imie i nazwisko: Zygfryd, Lwieserce, Pesel: 780915422, Adres: Zamosc, Plac Zamkowy 25/2
+
+
+
+Osoba: 
+9. Imie i nazwisko: Genowefa, Pigwa, Pesel: 2407350, Adres: Gdansk, ul. Dluga 2/1578
+
+
+

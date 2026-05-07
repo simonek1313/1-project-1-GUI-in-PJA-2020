@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1c5d4f3-9b5d-4140-8f9b-37ccaa7a8ee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="361" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZoUL0SByQPGqrMB7dz6bv0o7j9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="pl.pja.grzesym" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\12. Informatyka\PJATK\II semestr\GUI\projekty_praktyczne\projekt_1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\12. Informatyka\PJATK\II semestr\GUI\projekty_praktyczne\projekt_1\src\pl\pja\grzesym" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.pja.grzesym.Main" />
+      <module name="projekt_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c5d4f3-9b5d-4140-8f9b-37ccaa7a8ee0" name="Default Changelist" comment="" />
+      <created>1585504880198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585504880198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1586356786244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586356786244" />
+    <state x="525" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586933834818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586933834818" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586590544133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586590544133" />
+    <state x="722" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586934390643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1586934390643" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1587129179256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587129179256" />
+    <state width="1876" height="427" key="GridCell.Tab.0.bottom" timestamp="1587129266807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="427" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587129266807" />
+    <state width="1876" height="427" key="GridCell.Tab.0.center" timestamp="1587129266806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="427" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587129266806" />
+    <state width="1876" height="427" key="GridCell.Tab.0.left" timestamp="1587129266806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="427" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587129266806" />
+    <state width="1876" height="427" key="GridCell.Tab.0.right" timestamp="1587129266807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="427" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587129266807" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1585515639983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585515639983" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1585515639982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585515639982" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1585515639982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585515639982" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1585515639983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585515639983" />
+    <state x="463" y="151" key="SettingsEditor" timestamp="1586593540047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586593540047" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1587129136014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587129136014" />
+    <state x="342" y="145" key="new project wizard" timestamp="1586083435374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586083435374" />
+    <state x="702" y="144" key="refactoring.ChangeSignatureDialog" timestamp="1586357649659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="144" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586357649659" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1586593458542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586593458542" />
+    <state x="616" y="162" width="670" height="676" key="search.everywhere.popup" timestamp="1586507311957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="162" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586507311957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jrt://C:/Program Files/JetBrains/IntelliJ IDEA Educational Edition 2019.3/jbr!/java.base/java/lang/Object.class</url>
+          <line>26</line>
+          <properties class="java.lang.Object" method="notify" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/pl/pja/grzesym/Rzecz.java</url>
+          <line>5</line>
+          <properties field="szerokosc" class="pl.pja.grzesym.Rzecz" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/projekt_1$Main.ic" NAME="Main Coverage Results" MODIFIED="1587119235078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
